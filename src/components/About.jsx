@@ -32,7 +32,7 @@ function About() {
                 Below , you can find my cv attached , my Linkedin Profile and my Github profile if you want to check out projects i worked on .
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="#">
+                <a href="https://github.com/MustaphaGHA/MustaphaGHA.github.io/raw/master/MustaphaGhannouchi.pdf">
                   <button className="about btn pointer">Download Cv</button>
                 </a>
                 <a href="https://www.linkedin.com/in/mustapha-ghannouchi/">
