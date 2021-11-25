@@ -40,7 +40,7 @@ const Contact = () => {
                 <strong>mustaphaghannouchi@gmail.com</strong>
               </p>
             </div>
-            <form onSubmit={handleSubmit}>
+            {/* <form onSubmit={handleSubmit}>
             <div className="input__box">
               <input
                 type="text"
@@ -70,7 +70,7 @@ const Contact = () => {
               {status}
               </button>
             </div>
-            </form>
+            </form> */}
           </div>
         </div>
         <div className="col__2">
