@@ -13,7 +13,7 @@ function Home() {
       showCursor: false,
       backDelay: 1500,
       backSpeed:60,
-      strings: ["Desktop Software Developer", "Web Developer", "Mobile Developer"],
+      strings: ["Full stack Java software developer"],
     });
   }, []);
   // fixed Header
